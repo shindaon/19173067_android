@@ -3,4 +3,7 @@
  
 <img width="400" height="300" src="./pic/349812.png"></img>
 
-# 3주차
+# 3주차 (2022-03-22)
+- Toast Message
+- 네이버 모바일 웹 띄우기
+- 전화걸기
