@@ -6,12 +6,12 @@
 # 3주차 (2022-03-22)
 - Toast Message
  
-<img width="400" height="300" src="./pic/3주차_메인.png"></img>
+<img width="" height="" src="./pic/3주차_메인.png"></img>
 
 - 네이버 모바일 웹 띄우기
 
-<img width="400" height="300" src="./pic/3주차_네이버.png"></img>
+<img width="" height="" src="./pic/3주차_네이버.png"></img>
 
 - 전화걸기
 
-<img width="400" height="300" src="./pic/3주차_전화걸기.png"></img>
+<img width="" height="" src="./pic/3주차_전화걸기.png"></img>
