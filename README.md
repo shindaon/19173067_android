@@ -19,5 +19,5 @@
 # 5주차 (2022-04-05)
 - 이미지 바꾸기 버튼으로 뷰의 그림 바꾸기 (각각 pic1, pic2)
 
-<img width="300" height="500" src="./pic/5week_pic1.png"></img>
-<img width="300" height="500" src="./pic/5week_pic2.png"></img>
+<img width="400" height="500" src="./pic/5week_pic1.png"></img>
+<img width="400" height="500" src="./pic/5week_pic2.png"></img>
