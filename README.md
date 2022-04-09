@@ -13,5 +13,5 @@
 
 <img width="350" height="500" src="./pic/5week_pic1.png"></img>
 <img width="350" height="500" src="./pic/5week_pic2.png"></img>
-<img width="350" height="500" src="./pic/5주차 activitiy_main.png"></img>
-<img width="350" height="500" src="./pic/5주차 mainactivity.java.png"></img>
+<img width="300" height="400" src="./pic/5주차 activity_main.png"></img>
+<img width="300" height="400" src="./pic/5주차 mainactivity.java.png"></img>
