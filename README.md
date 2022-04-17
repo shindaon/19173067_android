@@ -18,3 +18,6 @@
 
 <img width="300" height="400" src="./pic/5주차 activity_main.png"></img>
 <img width="300" height="400" src="./pic/5주차 mainactivity.java.png"></img>
+
+# 6주차 (2022-04-12)
+- 사진 높이, 넓이값 Toast Message 띄우기
