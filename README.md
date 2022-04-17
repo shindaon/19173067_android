@@ -22,5 +22,5 @@
 # 6주차 (2022-04-12)
 - 사진 넓이, 높이값 Toast Message 띄우기
 
-<img width="300" height="400" src="./pic/6week넓이.png"></img>
-<img width="300" height="400" src="./pic/6week높이.png"></img>
+<img width="300" height="500" src="./pic/6week넓이.png"></img>
+<img width="300" height="500" src="./pic/6week높이.png"></img>
