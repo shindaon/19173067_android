@@ -24,3 +24,10 @@
 
 <img width="300" height="500" src="./pic/6week넓이.png"></img>
 <img width="300" height="500" src="./pic/6week높이.png"></img>
+
+# 10주차 (2022-05-10)
+- 여러 화면 만들고 화면 간 전환하기
+
+<img width="200" height="400" src="./pic/main.png"></img>
+<img width="200" height="400" src="./pic/menu.png"></img>
+<img width="200" height="400" src="./pic/result.png"></img>
