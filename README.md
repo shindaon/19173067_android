@@ -35,4 +35,4 @@
 # 11주차 (2022-05-17)
 - 웹으로 요청하기 결과
 
-<img width="200" height="400" src="./pic/11.png"></img>
+<img width="200" height="400" src="./pic/11st.png"></img>
